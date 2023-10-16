@@ -16,7 +16,7 @@
 | 2   | Alieya Zawanie Binti A Zaini            |AlieyaZawanie             | [:octocat:](https://github.com/AlieyaZawanie) |
 | 3   | Aliya Zarena Binti Zainulanuar          |al1yaz       | [:octocat:](https://github.com/al1yaz) |
 | 4   | Alya Balqiss Binti Azahar               |aly4blqss     | [:octocat:](https://github.com/aly4blqss) |
-| 5   | Alya Damia Binti Huzaimy                |alydmia      | [:octocat:](https://github.com/alydmia) |<a href="https://www.linkedin.com/in/alya-damia-huzaimy" ><img src="./images/linkedin.png" width="24px" height="24px" ></a> |
+| 5   | Alya Damia Binti Huzaimy                |alydmia      | [:octocat:](https://github.com/alydmia) |<a href="https://www.linkedin.com/in/alya-damia-huzaimy-555638224" ><img src="./images/linkedin.png" width="24px" height="24px" ></a> |
 | 6   | Ang Yi Qin                              |  yiqin0209           | [:octocat:](https://github.com/yiqin0209) |
 | 7   | Fauzan Aqil Bin Azman                   |FauzanAqil26           | [:octocat:](https://github.com/FauzanAqil26) |
 | 8   | Fong Khah Kheh                          |khahkhehhh             | [:octocat:](https://github.com/khahkhehhh) |
